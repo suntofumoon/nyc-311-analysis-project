@@ -1,0 +1,16 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+anaconda_projects/
+
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment folders
+.venv/
+venv/
+env/
+
+# Ignore original .xlsx file
+311_ServiceRequest_2020-present_DataDictionary_Updated_2025.xlsx
