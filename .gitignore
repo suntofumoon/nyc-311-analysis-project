@@ -12,5 +12,3 @@ __pycache__/
 venv/
 env/
 
-# Ignore original .xlsx file
-311_ServiceRequest_2020-present_DataDictionary_Updated_2025.xlsx
